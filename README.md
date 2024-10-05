@@ -1,2 +1,3 @@
 # HTML & CSS
-This is my fron-end 
+This is my fron-end - first project
+
